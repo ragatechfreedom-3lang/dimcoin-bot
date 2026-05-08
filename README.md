@@ -1,0 +1,2 @@
+# dimcoin-bot
+dimcoin-bot
